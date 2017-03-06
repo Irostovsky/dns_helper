@@ -16,3 +16,5 @@ initdb /usr/local/var/postgres
 brew services start postgresql
 
 changes to develop.
+
+do some task1.
