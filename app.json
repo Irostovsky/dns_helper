@@ -20,6 +20,9 @@
     },
     "SECRET_KEY_BASE": {
       "required": true
+    },
+    "TEST_VAR": {
+      "required": true
     }
   },
   "formation": {
