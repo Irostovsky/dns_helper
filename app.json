@@ -26,6 +26,9 @@
     },
     "TEST_VAR2": {
       "required": true
+    },
+    "TEST_VAR3": {
+      "required": true
     }
   },
   "formation": {
