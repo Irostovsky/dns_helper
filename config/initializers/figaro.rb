@@ -1,1 +1,1 @@
-# Figaro.require_keys("TEST_VAR")
+Figaro.require_keys("TEST_VAR")
